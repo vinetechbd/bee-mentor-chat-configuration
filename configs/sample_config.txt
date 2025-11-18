@@ -1,0 +1,3 @@
+# Sample configuration for Bee Mentor chat
+setting1=value1
+setting2=value2
